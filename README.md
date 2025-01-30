@@ -35,9 +35,13 @@ Users can choose to view past calculations, which are read from their respective
 
 5)Technology & Concepts Used:
 
-C Programming Language(looping and control statements,array,string)
-File Handling (fopen, fclose, fprintf, fscanf)
-String Handling (strcmp, strcpy)
-User Authentication System
-Mathematical Functions (math.h)
+1)C Programming Language(looping and control statements,array,string)
+
+2)File Handling (fopen, fclose, fprintf, fscanf)
+
+3)String Handling (strcmp, strcpy)
+
+4)User Authentication System
+
+5)Mathematical Functions (math.h)
 
